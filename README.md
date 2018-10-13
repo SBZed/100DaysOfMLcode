@@ -1,4 +1,8 @@
 # [100DaysOfMLcode](https://www.youtube.com/watch?v=cuQMBj1cWPo&vl=en)
+
+![alt text](https://cdn-images-1.medium.com/max/800/1*mxKzNIGP2PCnJOTXtEgQmg.png )
+
+
 The creation of this repository was inspired by [Siraj Raval's challenge](https://github.com/llSourcell/100_Days_of_ML_Code) to code machine learning for at least an hour every day for 100 days.
  
 # Day1 - Crash course of Data Science and ML with Python - 14 Oct 2018
