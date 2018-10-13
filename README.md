@@ -3,5 +3,4 @@ The creation of this repository was inspired by [Siraj Raval's challenge](https:
  
 # Day1 - Crash course of Data Science and ML with Python - 14 Oct 2018
  - Just revising basic things required for Machine learning in Python.
- - [Article](https://www.linkedin.com/feed/update/urn:li:activity:6432532718810169344/)
- - [Code]() 
+ - [Article](https://www.linkedin.com/feed/update/urn:li:activity:6432532718810169344/) | [Code](https://github.com/SBZed/100DaysOfMLcode/tree/master/Day%201%20-%20ML%20with%20Python) 
