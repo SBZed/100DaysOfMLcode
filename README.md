@@ -1,6 +1,6 @@
 # [100DaysOfMLcode](https://www.youtube.com/watch?v=cuQMBj1cWPo&vl=en)
 
-![alt text](https://cdn-images-1.medium.com/max/800/1*mxKzNIGP2PCnJOTXtEgQmg.png )
+![alt text](https://raw.githubusercontent.com/SBZed/100DaysOfMLcode/master/Day%201%20-%20ML%20with%20Python/100DaysOfMLCode.png)
 
 
 The creation of this repository was inspired by [Siraj Raval's challenge](https://github.com/llSourcell/100_Days_of_ML_Code) to code machine learning for at least an hour every day for 100 days.
