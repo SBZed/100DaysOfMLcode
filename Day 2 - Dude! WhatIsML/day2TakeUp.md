@@ -1,5 +1,0 @@
- - Introduction to ML With Some Resources
- - Workflow of ML
- - Linear regression Mathematical Explaination
- - Linear Regression OLS/ HUman's Approach
- - Linear Regression Machine's Approach
